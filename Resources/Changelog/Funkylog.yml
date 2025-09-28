@@ -4656,3 +4656,57 @@ Entries:
       message: Reporters now have Common access and a new shiny headset.
   id: 558
   time: '2025-09-20T05:26:15.0000000+00:00'
+- author: pirakaplant
+  changes:
+    - type: Tweak
+      message: >-
+        The Janitor icon and ID card are now "service green". The reporter icon
+        and ID card are now "civilian grey".
+  id: 559
+  time: '2025-09-20T07:28:05.0000000+00:00'
+- author: ATDoop
+  changes:
+    - type: Tweak
+      message: Microphones now work in your offhand.
+  id: 560
+  time: '2025-09-20T18:36:21.0000000+00:00'
+- author: taydeo
+  changes:
+    - type: Add
+      message: >-
+        Changelings are now a team antagonist, and are given Hivemind
+        roundstart.
+  id: 561
+  time: '2025-09-21T01:03:20.0000000+00:00'
+- author: SigmaDraconis
+  changes:
+    - type: Tweak
+      message: Increased the damage and charge of the energy revolver
+    - type: Tweak
+      message: Increased the Hristov's fire rate by 25%
+    - type: Fix
+      message: Changed the X-01 Multiphase's description to show it self recharges
+    - type: Tweak
+      message: Increased the spread of the WT550
+    - type: Tweak
+      message: Decreased the size of the sawn-off shotgun
+    - type: Tweak
+      message: >-
+        The detective can now choose between the energy revolver and the
+        inspector through loadouts.
+    - type: Add
+      message: The detective now has a magnum speedloader that comes in their locker.
+  id: 562
+  time: '2025-09-21T07:22:19.0000000+00:00'
+- author: Chedd-Error
+  changes:
+    - type: Tweak
+      message: Added the base mime and clown masks to the autodrobe.
+  id: 563
+  time: '2025-09-27T05:53:18.0000000+00:00'
+- author: salpphie
+  changes:
+    - type: Add
+      message: Added Eden map to be playtested
+  id: 564
+  time: '2025-09-28T02:42:01.0000000+00:00'
